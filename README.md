@@ -2,7 +2,7 @@
 아이디어 메모장. | Idea Notes
 
 + [ ] 코드 에디터 / Code Editor
-+ [ ] 힐링 뉴스 사이트 / Healing News Site
++ [ ] 힐링 사이트 / Healing Site [바로가기 | Shortcut](https://github.com/uzuLee/Dearlune/tree/main)
 + [ ] 암호화 폰트 시스템 / Encryption Font System
 + [ ] 검색 엔진 / Search Engine
 + [ ] 브라우저 / Browser
