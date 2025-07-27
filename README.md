@@ -8,3 +8,4 @@
 + [ ] 브라우저 / Browser
 + [ ] 딥웹 혹은 사설 도메인 시스템 / Deep Web or Private Domain System
 + [ ] 프로그래밍 언어 / Programming Launguage
++ [ ] 개인 비서 / Personal Secretary
